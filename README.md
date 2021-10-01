@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **A bachelors in CS**
 
-- 🌱 I’m currently learning **SwiftUI, NodeJS, iOS**
+- 🌱 I’m currently mastering **SwiftUI, UIKit, Swift**
 
 - I’m looking to collaborate on **iOS Applications**
 
